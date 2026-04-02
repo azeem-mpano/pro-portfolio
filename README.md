@@ -1,9 +1,9 @@
-# 💼 Azeem Mpano Kingson - Developer Portfolio
+# 💼 Developer Portfolio
 
 A modern, responsive, and visually engaging portfolio website built to showcase my skills, projects, and experience as a Software Developer.
 
 ## 🚀 Live Demo
-🔗 https://your-portfolio-link.com
+🔗 https://
 
 ---
 
